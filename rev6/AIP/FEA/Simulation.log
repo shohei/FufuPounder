@@ -1,0 +1,35 @@
+﻿Simulation Simulation:1 started: 8/31/2014, 12:51:26 PM
+Number of configurations: 1
+Default mesh: 16309 elements, 29717 nodes
+Model separates into 3 independent components
+Soft spring was added
+The deformation is large compared to the model size. Please verify that load and constraint settings are appropriately scaled.
+Solution time 4s
+Convergence rate: 50%
+Reached the total number of h refinements 
+Simulation Simulation:1 finished: 8/31/2014, 12:51:43 PM
+Total time 0:00:17
+
+Simulation Simulation:1 started: 8/31/2014, 12:56:10 PM
+Number of configurations: 1
+Default mesh: 16304 elements, 29708 nodes
+Model separates into 3 independent components
+Soft spring was added
+The deformation is large compared to the model size. Please verify that load and constraint settings are appropriately scaled.
+Solution time 3.2s
+Convergence rate: 50%
+Reached the total number of h refinements 
+Simulation Simulation:1 finished: 8/31/2014, 12:56:26 PM
+Total time 0:00:16
+
+Simulation Simulation:1 started: 8/31/2014, 12:57:29 PM
+Number of configurations: 1
+Default mesh: 16304 elements, 29708 nodes
+Model separates into 3 independent components
+Soft spring was added
+Solution time 7.4s
+Convergence rate: 50%
+Reached the total number of h refinements 
+Simulation Simulation:1 finished: 8/31/2014, 12:57:37 PM
+Total time 0:00:08
+

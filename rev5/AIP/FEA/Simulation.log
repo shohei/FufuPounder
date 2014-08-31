@@ -1,0 +1,11 @@
+﻿Simulation Simulation:1 started: 8/30/2014, 6:25:51 AM
+Number of configurations: 1
+Default mesh: 11636 elements, 21735 nodes
+Model separates into 4 independent components
+Soft spring was added
+Solution time 4.9s
+Convergence rate: 50%
+Reached the total number of h refinements 
+Simulation Simulation:1 finished: 8/30/2014, 6:26:10 AM
+Total time 0:00:19
+
